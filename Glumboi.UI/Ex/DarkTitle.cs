@@ -12,6 +12,7 @@ namespace Glumboi.UI.Ex
         [DllImport("DwmApi")] //System.Runtime.InteropServices
         private static extern int DwmSetWindowAttribute(IntPtr hwnd, int attr, int[] attrValue, int attrSize);
 
+        //Must be used in protected override void OnHandleCreated(EventArgs e) in order to work on a form
         internal static void ChangeTitleBarToDark(IntPtr handle)
         {
             if (DwmSetWindowAttribute(handle, 19, new[] { 1 }, 4) != 0)
