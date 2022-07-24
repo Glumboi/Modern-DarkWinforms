@@ -1,0 +1,6 @@
+F:\Glumboi dlls\Glumboi.UI\Glumboi.UI\bin\Debug\Glumboi.UI.dll
+F:\Glumboi dlls\Glumboi.UI\Glumboi.UI\bin\Debug\Glumboi.UI.pdb
+F:\Glumboi dlls\Glumboi.UI\Glumboi.UI\obj\Debug\Glumboi.UI.csproj.AssemblyReference.cache
+F:\Glumboi dlls\Glumboi.UI\Glumboi.UI\obj\Debug\Glumboi.UI.csproj.CoreCompileInputs.cache
+F:\Glumboi dlls\Glumboi.UI\Glumboi.UI\obj\Debug\Glumboi.UI.dll
+F:\Glumboi dlls\Glumboi.UI\Glumboi.UI\obj\Debug\Glumboi.UI.pdb
